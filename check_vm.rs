@@ -3,7 +3,9 @@
 
 b1tg @ 2021/05/27 20:55
 
-detect method from: https://github.com/LordNoteworthy/al-khaser
+detect method from: 
+- https://github.com/LordNoteworthy/al-khaser
+- https://www.freebuf.com/articles/system/202717.html
 
 */
 use failure::Fallible;
